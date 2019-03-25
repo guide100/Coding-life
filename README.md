@@ -1,12 +1,27 @@
-Coding life
-===
+<h1 align="center">Coding life</h1>
+
+
+<h2 align="center">
+Record Something important with pictures!</h2>
+</p>
+
+
+## Catalogue
+
+- [js-important](#js-important)
+    - [基础](#基础)
+- [java-important](#java-important)
+
+
 # js-important
 ## object.keys
-<br/>
-![xxx](pics/object-keys.jpg)
+<p align="center">
 <img src="pics/object-keys.jpg" width="600px"/>
+</p>
 
 ## debounce & throttle
+
+
 ```javascript
 function debounce(fn){
     var timer;
@@ -16,7 +31,12 @@ function debounce(fn){
         timer=setTimeout(()=>fn.call(this,arguments),1000);
     }
 }
+```
+<p align="center">
+<img src="pics/debounce.gif" width="600px"/>
+</p>
 
+```javascript
 function throttle(fn){
     let timer;
     return function(){
@@ -26,7 +46,7 @@ function throttle(fn){
     }
 }
 ```
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
-
+<p align="center">
+<img src="pics/throttle.gif" width="600px"/>
+</p>
 # java-important
