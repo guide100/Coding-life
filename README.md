@@ -9,7 +9,8 @@ Record Something important with pictures!</h2>
 ## Catalogue
 
 - [js-important](#js-important)
-    - [基础](#基础)
+    - [object.keys](#object.keys)
+    - [debounce & throttle](#debounce & throttle)
 - [java-important](#java-important)
 
 
@@ -49,4 +50,5 @@ function throttle(fn){
 <p align="center">
 <img src="pics/throttle.gif" width="600px"/>
 </p>
+
 # java-important
