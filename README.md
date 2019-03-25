@@ -10,7 +10,7 @@ Record Something important with pictures!</h2>
 
 - [js-important](#js-important)
     - [object.keys](#object.keys)
-    - [debounce & throttle](#debounce & throttle)
+    - [debounce & throttle](#debounce\ &\ throttle)
 - [java-important](#java-important)
 
 
