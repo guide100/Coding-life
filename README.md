@@ -1,6 +1,6 @@
 <h1 align="center">Coding life</h1>
 
-
+ 
 <h2 align="center">
 Record Something important with pictures!</h2>
 </p>
