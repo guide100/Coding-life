@@ -10,7 +10,8 @@ Record Something important with pictures!</h2>
 
 - [js-important](#js-important)
     - [object.keys](#object.keys)
-    - [debounce & throttle](#debounce&nbsp;& &nbsp;throttle)
+    - [debounce & throttle](#debounce&nbsp;&&nbsp;throttle)
+    - [random_number_array](#random&nbsp;number&nbsp;array)
 
 - [nodejs](#nodejs)
 - [serverless](#serverless)
@@ -55,7 +56,7 @@ function throttle(fn){
 </p>
 
 
-## random_number_array
+## random number array
 <p align="center">
 <img src="pics/random_number_array.gif" width="600px"/>
 </p>
